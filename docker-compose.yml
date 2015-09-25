@@ -3,3 +3,5 @@ selenium:
 
 data_node:
   build: data_node
+  stdin_open: true
+  command: /bin/bash
