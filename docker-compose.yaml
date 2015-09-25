@@ -1,0 +1,5 @@
+selenium:
+  image: robcherry/docker-selenium
+
+data_node:
+  build: data_node
